@@ -29,3 +29,6 @@ And there might be:
 
 For each of these files, there might be more.
 
+> Ps. I wouldn't be able to write a comprehensible readme or doc to save my life, good luck trying to understand any of this!
+
+> Ps 2. I understand writing the readme about the snippets, but why this one, nobody but me is gonna see this. <sup>right<sup>
